@@ -1,4 +1,4 @@
-**Заглушка на Maven SpringBoot:**
+**Заглушка на Maven SpringBoot:**  
 1.Адрес: http://127.0.0.1:8080/api/datetime  
 2.Http методы POST/PUT  
 3.Тело в формате JSON:  
